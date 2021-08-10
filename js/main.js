@@ -1,4 +1,4 @@
-const API_URL = 'http://lumenapi.net';
+const API_URL = 'http://mycountryapi.net';
 
 
 function isAuthenticated(){
